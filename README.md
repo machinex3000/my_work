@@ -3,6 +3,6 @@ From the [https://lms.skillfactory.ru/courses/course-v1:SkillFactory+DSPR-2.0+14
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число](https://github.com/machinex3000/my_work/commit/8a96993510b7238cec116cf2d315fdd89f7cf758)
+* [Проект 0. Игра: Угадай число](https://github.com/machinex3000/my_work/tree/main/project_0)
 * [Проект 1. _____](_____)
 * [Проект 2. _____](_____)
