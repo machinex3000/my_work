@@ -55,7 +55,7 @@
 
 
 ### Выводы
-....
+Выполнили задание от Skill Factory
 
 
 :arrow_up[к оглавлению](https://github.com/machinex3000/my_work/blob/main/project_0/README.md#Оглавление)
